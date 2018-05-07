@@ -1,2 +1,2 @@
 # Python-RESTAPI
-Application that given the latitude and longitude information of the location gives the date and time when image was last recorded.
+Given latitude and longitude information of an input location, application gives the date and time when image of the location was last recorded by NASA.
